@@ -1,2 +1,2 @@
-# FeatherIT
+Problem Solving
 Interview Problem
